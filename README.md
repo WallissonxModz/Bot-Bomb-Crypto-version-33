@@ -11,6 +11,8 @@
 Este bot não foi criado por mim apenas modifiquei ele para a nova versão do bomb crypto!
 Este bot tem o seu código aberto, de forma que qualquer pessoa pode vê-lo, fazer uma fork, ou updates.
 
+!Foi corrigido o loggin no jogo!
+
 Desenvolvi esse bot inicialmente para o meu uso pessoal. Eu decidi publica-lo
 aqui para ajudar o pessoal e com a esperança de ganhar um trocadinho com
 doações.  Com o tempo mais e mais pessoas foram abrindo issues, pedindo ajuda,
